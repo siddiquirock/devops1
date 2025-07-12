@@ -8,9 +8,7 @@ variable "resource_group_name" {
   type        = string
 }
 
-variable "location" {
-  description = "The Azure region where the public IP will be created."
-  type        = string
-}
+
+
 
 
