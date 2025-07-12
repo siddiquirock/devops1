@@ -13,8 +13,4 @@ variable "location" {
   type        = string
 }
 
-variable "allocation_method" {
-  description = "The allocation method for the public IP address. Can be 'Static' or 'Dynamic'."
-  type        = string
-  default     = "Static"
-}
+
