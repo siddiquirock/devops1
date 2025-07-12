@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../azurerm_public_ip"
+		},
+		{
+			"path": "../azurerm_resource_group"
+		},
+		{
+			"path": "../azurerm_sql_database"
+		},
+		{
+			"path": "../azurerm_sql_server"
+		},
+		{
+			"path": "../azurerm_subnet"
+		},
+		{
+			"path": "../azurerm_virtual_machine"
+		},
+		{
+			"path": "."
+		}
+	]
+}
